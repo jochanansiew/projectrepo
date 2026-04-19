@@ -14,4 +14,4 @@ The key objectives of this project are to:
 
 ## Changes
 - Added changes to branch to generate conflict
-- Added next change for part 4
+- Added next change for part 4 of assignment
