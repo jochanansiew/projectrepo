@@ -12,10 +12,6 @@ The key objectives of this project are to:
 - Practice staging and committing changes with meaningful commit messages
 - Understand the basic workflow of Git-based project management
 
-<<<<<<< HEAD
-## Changes 1
-- Changes added to README.md on main branch
-=======
 ## Changes
 - Added changes to branch to generate conflict
->>>>>>> featurex
+- Added next change for part 4
