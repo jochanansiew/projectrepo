@@ -11,3 +11,6 @@ The key objectives of this project are to:
 - Create and manage project files using version control
 - Practice staging and committing changes with meaningful commit messages
 - Understand the basic workflow of Git-based project management
+
+## Changes 1
+- Changes added to README.md on main branch
